@@ -1,3 +1,3 @@
 # coding-tigers-project
 
-Student project!
+Student project for web development studying
